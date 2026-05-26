@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Noaman&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Noaman&color=blue&style=flat)
 ![Followers](https://img.shields.io/github/followers/Abdelrahman-Noaman?style=flat&label=Followers)
 </div>
 
