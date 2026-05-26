@@ -12,8 +12,7 @@
 
 <!-- Profile Views & Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Noaman&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Abdelrahman-Noaman?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)](https://github.com/Abdelrahman-Noaman)
-
+![Followers](https://img.shields.io/github/followers/Abdelrahman-Noaman?style=flat&label=Followers)
 </div>
 
 ---
